@@ -1,3 +1,9 @@
+![Screenshot (4)](https://user-images.githubusercontent.com/30286287/105378622-04962100-5c32-11eb-8c59-3f06cf7bf180.png)
+
+![Screenshot (3)](https://user-images.githubusercontent.com/30286287/105378662-0cee5c00-5c32-11eb-939a-6997fbaa77cd.png)
+
+hit this url to see the live app-https://react-player-music.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
